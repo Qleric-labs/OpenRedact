@@ -40,8 +40,8 @@ Self-serve redaction for contracts and general PDFs. Drop a file in the browser,
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/Qleric-labs/OpenRedact.git
+cd OpenRedact
 
 # Spin up the local stack
 docker-compose up --build
